@@ -18,6 +18,8 @@ The output datasets include: The sample-specific driver profiles (matrix) by usi
 
 (e) When users analyzed yourself new data, please: (1) Prepare input datasets as introduced in (d). (2) Clear the previous results. (3) Set parameters in PNC.m as introduced in (b). (4) Run main_PNC.m. (5) Suggest that the users add all fille in our folders to your folder.
 
-% $Id: main_PNC.m Created at 2019-05-29 22:22:20 $ % by Weifeng Guo, Northwestern Polytechtical University, China % Copyright (c) 2014-2019 by Key Laboratory of Information Fusion Technology of Ministry of Education in Northwestern Polytechnical University and key Laboratory of Systems Biology in Shanghai Institutes for Biological Science; 
+% $Id: main_PNC.m Created at 2019-05-29 22:22:20 $ 
+
+% by Weifeng Guo, Northwestern Polytechtical University, China % Copyright (c) 2014-2019 by Key Laboratory of Information Fusion Technology of Ministry of Education in Northwestern Polytechnical University and key Laboratory of Systems Biology in Shanghai Institutes for Biological Science; 
 
 % If any problem,pleasse contact shaonianweifeng@126.com for help.
