@@ -4,6 +4,8 @@
 
 %Remainder: Please install gurobi before running our code (http://www.gurobi.com/)
 
+%Important information: Our PNC is dependent on the prior-known gene interactions.We strongly suggested users to read the note in "Gene_interaction_network.xlsx" which may help users improve the performance of PNC in your stduy. 
+
 This package includes Matlab scripts and several datasets for demo of PNC approaches: 
 
 (a)	main_PNC.m is a Matlab function for the routine of experimental analysis. 
