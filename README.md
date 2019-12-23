@@ -14,7 +14,7 @@ This package includes Matlab scripts and several datasets for demo of PNC approa
 
 (a)	main_PNC.m is a Matlab function for the routine of experimental analysis. 
 
-(b)	main_PNC.m is the main script to call PNC by supplying following parameters: (1)	expression_tumor_fileName: the directory locating of the gene tumor expression data as the input data. (2) expression_normal_fileName: the directory locating of the gene normal expression data as the input data. (b) PNC.m is the main script to call PNC 
+(b)	main_PNC.m is the main script to call PNC by supplying following parameters: (1)	expression_tumor_fileName: the directory locating of the gene tumor expression data as the input data. (2) expression_normal_fileName: the directory locating of the gene normal expression data as the input data.
 
 (c) The input datasets include: (1) expression_tumor_fileName.txt: the gene tumor expression data. (2) expression_normal_fileName.txt: the gene normal expression data. Note that the samples in expression_tumor_fileName.txt and expression_normal_fileName.txt should be paired.
 
